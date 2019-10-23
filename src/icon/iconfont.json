@@ -1,0 +1,72 @@
+{
+  "id": "1192222",
+  "name": "app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3759641",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "4893435",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "4893445",
+      "name": "新闻news",
+      "font_class": "xinwennews",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "6240903",
+      "name": "购物车",
+      "font_class": "ziyuan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "10113916",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e8a0",
+      "unicode_decimal": 59552
+    },
+    {
+      "icon_id": "10113917",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e8a1",
+      "unicode_decimal": 59553
+    },
+    {
+      "icon_id": "10113918",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e8a2",
+      "unicode_decimal": 59554
+    },
+    {
+      "icon_id": "10113919",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "10113934",
+      "name": "邮件",
+      "font_class": "youjian",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    }
+  ]
+}
